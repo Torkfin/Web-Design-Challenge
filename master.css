@@ -1,7 +1,4 @@
 
-.navbar {
-  max-height: 45px;
-}
 .navigation .navbar-brand {
   color: rgb(56, 140, 153);
   margin-left: -5px;
@@ -9,6 +6,7 @@
   font-weight: bold;
   background-color: rgba(188, 218, 210);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
 }
 .navbar {
   background-color: rgb(161, 190, 190);
@@ -16,12 +14,14 @@
 }
 .active, .dropdown-menu .dropdown-item:active a:hover {
   background-color: rgb(236, 241, 233);
+  
 }
 .dropdown-item {
   color: rgba(30, 32, 32);
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
   background-color: rgb(232, 238, 240);
+   
 }
 
 .nav-link:hover {
